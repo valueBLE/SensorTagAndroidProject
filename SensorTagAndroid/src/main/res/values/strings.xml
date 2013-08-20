@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sensor Tag</string>
+    <string name="action_configure">Configure</string>
+    <string name="title_section_temperature">Temperature</string>
+    <string name="title_section_humidity">Humidity</string>
+    <string name="title_section_accelerometer">Accelerometer</string>
+    <string name="title_section_pressure">Pressure</string>
+    <string name="title_section_magnetometer">Magnetometer</string>
+    <string name="title_section_gyroscope">Gyroscope</string>
+    <string name="button_title_scan">Scan</string>
+    <string name="text_current_connection">Current Connection:</string>
+    <string name="text_current_connection_name_none">None.</string>
+    <string name="dialog_title_configuration">Configure SensorTag</string>
+    <string name="list_view_bluetooth_device_text">%1$s (%2$s)</string>
+    <string name="section_label_not_connected">Not Connected Yet. Use the Configuration tool.
+    </string>
+    <string name="temperature_label_ambient">Ambient</string>
+    <string name="temperature_label_target">Target</string><string name="title_na">N/A</string>
+    <string name="humidity_label_temperature">Temperature</string>
+    <string name="humidity_label_relative">Relative</string>
+    <string name="accelerometer_details_z">Z</string>
+    <string name="accelerometer_details_y">Y</string>
+    <string name="accelerometer_details_x">X</string>
+
+
+</resources>
